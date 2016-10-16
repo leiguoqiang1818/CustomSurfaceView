@@ -1,0 +1,2 @@
+# CustomSurfaceView
+初级的自定义SurfaceView，主要目的巩固理解surfaceview的基本工作原理
